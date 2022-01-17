@@ -1,0 +1,60 @@
+#home-hero{
+    background-color: lightgray;
+    margin: auto;
+    border-radius: 10px;
+    width: 60%;
+}
+
+
+#buttonsParent{
+    max-width: 60%;
+    text-align: center;
+    display: flex;
+    
+}
+#buttonsChild{
+    margin: auto;
+}
+.footer{
+    left: 0;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    background-color: #bebebe;
+    border: 1px black groove;
+}
+#footerText{
+    text-align: center;
+    
+}
+.titleBox{
+    margin-top: 5%;
+    text-align: center;
+    
+}
+#signupForm{
+    border: 1px solid gray;
+    border-radius: 5px;
+    min-width: 20%;
+    max-width: 35%;
+    justify-content: center;
+    padding: 20px;
+    
+    
+
+}
+#signinForm{
+    border: 1px solid gray;
+    border-radius: 5px;   
+    max-width: 20%;
+    justify-content: center;
+    padding: 20px;
+    
+    
+
+}
+#signButton{
+    margin-top: 10px;
+    width: 100%;
+}
+
